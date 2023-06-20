@@ -5,14 +5,14 @@ MAX_BET = 100
 MIN_BET = 1
 
 ROWS = 3
-COLS = 3
+COLS = 5
 
 # Define the count and value of symbols
 symbol_count = {
-    "A": 4,
-    "B": 4,
-    "C": 4,
-    "D": 4
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "D": 5 
 }
 symbol_value = {
     "A": 4,
